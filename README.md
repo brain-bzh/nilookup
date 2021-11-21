@@ -6,11 +6,17 @@ nilookup
 
 Requirements
 --
-- [nilearn](https://nilearn.github.io/stable/index.html) 0.8.1
+- [nilearn](https://nilearn.github.io/stable/index.html) >= 0.8.1
+- [numpy](https://numpy.org/) >= 1.21.3
+- [pandas](https://pandas.pydata.org/) >= 1.1.3
 
 Setup
 --
-Clone this repository, or download the [nilookup.py file](nilookup.py), then and run the commands below from the same folder. 
+
+- Clone this repository, or download the [nilookup.py file](nilookup.py), 
+- install the requirements : `pip install -r requirements.txt`
+
+then run the commands below from the same folder. 
 
 Features
 --
