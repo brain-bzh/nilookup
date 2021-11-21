@@ -10,7 +10,7 @@ Requirements
 
 Setup
 --
-Just download the [nilookup.py file](nilookup.py) and run the commands below from the same folder. 
+Clone this repository, or download the [nilookup.py file](nilookup.py), then and run the commands below from the same folder. 
 
 Features
 --
