@@ -1,7 +1,7 @@
 nilookup
 --
 
-**nilookup** is a small tool to search for the label of a brain area given its coordinate in MNI space. 
+**nilookup** is a small tool to search for the label of a brain area (according to brain atlases) given its coordinate in MNI space. 
  **nilookup** is based on **nilearn**.
 
 Requirements
